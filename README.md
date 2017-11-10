@@ -1,5 +1,5 @@
-# test
+# Read Me   
 
 
-This is a test file for github 
+This file contains all my implementations of algorithms and datastructures using c language
 
