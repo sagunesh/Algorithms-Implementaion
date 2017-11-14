@@ -99,7 +99,7 @@ int main()
     double time_taken1 = ((double)t)/CLOCKS_PER_SEC; // in seconds
 
     printf("findpairnaive() took %f seconds to execute \n", time_taken1);
-    return 0;
+
 
 
 
